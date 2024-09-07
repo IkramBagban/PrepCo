@@ -42,7 +42,3 @@ To get started with the content in this repository:
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template to better fit your vision for PrepCo. Good luck with your project!
