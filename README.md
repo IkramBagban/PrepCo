@@ -13,6 +13,14 @@ Welcome to **PrepCo** – your one-stop resource for comprehensive interview pre
 
 **PrepCo** aims to be a community-driven repository where users can add and access interview questions, coding notes, and other valuable resources. Our goal is to support individuals in their coding journey and interview preparation by providing a centralized and organized collection of information.
 
+## Content Overview
+
+Here is a quick overview of the main folders in this repository:
+
+- [JavaScript](./javascript/)
+
+Each folder contains relevant interview questions and notes specific to the topic. Click on the links to explore the content in each category.
+
 ## How to Contribute
 
 We welcome contributions from everyone! To contribute, follow these steps:
