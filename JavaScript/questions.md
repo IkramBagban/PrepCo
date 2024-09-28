@@ -1,3 +1,7 @@
+# JavaScript Interview Questions
+
+## Basic Questions
+
 <details>
 <summary>What is JavaScript?</summary>
 
@@ -14,10 +18,11 @@ Syntax in JavaScript refers to the set of rules that define how JavaScript code 
 let message = "Hello, World!"; // Correct syntax
 console.log(message); // Correct syntax
 ```
+
 </details>
 
 <details>
-<summary>What are the data types supported by JavaScript?<summary>
+<summary>What are the data types supported by JavaScript?</summary>
 
 JavaScript supports the following data types:
 
@@ -35,11 +40,10 @@ JavaScript supports the following data types:
 
   - **Object**: Used to store collections of data or more complex entities (e.g., arrays, functions, objects).
 
-
 </details>
 
 <details>
-<summary>What is the difference between `null` and `undefined`?<summary>
+<summary>What is the difference between `null` and `undefined`?</summary>
 
 - **`undefined`**: Indicates that a variable has been declared but has not been assigned a value. It is the default value of uninitialized variables.
 
@@ -56,11 +60,11 @@ JavaScript supports the following data types:
   ```
 
 **Key Difference:** `undefined` is automatically assigned by JavaScript to uninitialized variables, while `null` is an assignment value indicating "no value."
+
 </details>
 
-
 <details>
-<summary>Explain the difference between `==` and `===` in JavaScript.<summary>
+<summary>Explain the difference between `==` and `===` in JavaScript.</summary>
 
 - **`==` (Loose Equality)**: Compares two values for equality after performing type conversion (coercion) if necessary. It attempts to convert the values to a common type before comparison.
 
@@ -77,4 +81,5 @@ JavaScript supports the following data types:
 ```
 
 **Recommendation:** Always use `===` for comparisons to avoid unexpected results caused by type coercion.
+
 </details>
