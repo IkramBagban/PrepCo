@@ -17,7 +17,7 @@ Welcome to **PrepCo** – your one-stop resource for comprehensive interview pre
 
 Here is a quick overview of the main folders in this repository:
 
-- [JavaScript](./javascript/)
+- [JavaScript](https://github.com/IkramBagban/PrepCo/tree/main/JavaScript)
 
 Each folder contains relevant interview questions and notes specific to the topic. Click on the links to explore the content in each category.
 
