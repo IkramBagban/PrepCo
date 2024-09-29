@@ -7,7 +7,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 20px; margin: 0;">
     <div style="max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-        <h1 style="text-align: center; color: #007bff;">JavaScript Interview Questions</h1>
+        <h1 style="text-align: center; color: red;">JavaScript Interview Questions</h1>
         <h2 style="border-bottom: 2px solid #007bff; padding-bottom: 5px; margin-bottom: 10px; color: #007bff;">Basic Questions</h2>
         
         <details style="margin: 10px 0; border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f1f1f1; cursor: pointer; transition: background-color 0.3s;">
